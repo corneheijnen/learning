@@ -13,48 +13,48 @@
 - [The Power of Tiny Gains](https://jamesclear.com/continuous-improvement)
 
 ### Have basic business understanding
-- [X] [Book: Delivering Happiness](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220)
-- [X] [Book: Good to Great: Why Some Companies Make the Leap...And Others Don't](https://www.amazon.com/Good-Great-Some-Companies-Others-ebook/dp/B0058DRUV6)
-- [X] [Book: Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams](https://www.amazon.com/Hello-Startup-Programmers-Building-Technologies/dp/1491909900)
-- [X] [Book: How Google Works](https://www.howgoogleworks.net)
-- [X] [Book: Learn to Earn: A Beginner's Guide to the Basics of Investing and Business](https://www.goodreads.com/book/show/817589.Learn_to_Earn)
-- [X] [Book: Rework](https://www.goodreads.com/book/show/6732019-rework)
-- [X] [Book: The Airbnb Story](https://www.amazon.com/Airbnb-Story-Ordinary-Disrupted-Controversy/dp/0544952669)
-- [X] [Book: The Personal MBA](https://www.amazon.com/Personal-MBA-Master-Art-Business/dp/1591845572)
-- [X] [Facebook: Digital marketing: get started](https://learn.fb.com/skillset/marketing-started)
-- [X] [Facebook: Digital marketing: go further](https://learn.fb.com/skillset/marketing-further)
-- [X] [Google Analytics for Beginners](https://analytics.google.com/analytics/academy/course/6)
-- [X] [Moz: The Beginner's Guide to SEO](https://moz.com/beginners-guide-to-seo)
-- [X] [Smartly: Marketing Fundamentals](https://smart.ly/course/abd47e21-4b59-4ccf-910d-fb1c18b2e9df)
-- [X] [Treehouse: SEO Basics](https://teamtreehouse.com/library/seo-basics)
+- [ ] [Book: Delivering Happiness](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220)
+- [ ] [Book: Good to Great: Why Some Companies Make the Leap...And Others Don't](https://www.amazon.com/Good-Great-Some-Companies-Others-ebook/dp/B0058DRUV6)
+- [ ] [Book: Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams](https://www.amazon.com/Hello-Startup-Programmers-Building-Technologies/dp/1491909900)
+- [ ] [Book: How Google Works](https://www.howgoogleworks.net)
+- [ ] [Book: Learn to Earn: A Beginner's Guide to the Basics of Investing and Business](https://www.goodreads.com/book/show/817589.Learn_to_Earn)
+- [ ] [Book: Rework](https://www.goodreads.com/book/show/6732019-rework)
+- [ ] [Book: The Airbnb Story](https://www.amazon.com/Airbnb-Story-Ordinary-Disrupted-Controversy/dp/0544952669)
+- [ ] [Book: The Personal MBA](https://www.amazon.com/Personal-MBA-Master-Art-Business/dp/1591845572)
+- [ ] [Facebook: Digital marketing: get started](https://learn.fb.com/skillset/marketing-started)
+- [ ] [Facebook: Digital marketing: go further](https://learn.fb.com/skillset/marketing-further)
+- [ ] [Google Analytics for Beginners](https://analytics.google.com/analytics/academy/course/6)
+- [ ] [Moz: The Beginner's Guide to SEO](https://moz.com/beginners-guide-to-seo)
+- [ ] [Smartly: Marketing Fundamentals](https://smart.ly/course/abd47e21-4b59-4ccf-910d-fb1c18b2e9df)
+- [ ] [Treehouse: SEO Basics](https://teamtreehouse.com/library/seo-basics)
 - [ ] [Udacity: App Monetization](https://www.udacity.com/course/app-monetization--ud518)
 - [ ] [Udacity: App Marketing](https://www.udacity.com/course/app-marketing--ud719)
 - [ ] [Udacity: How to Build a Startup](https://www.udacity.com/course/how-to-build-a-startup--ep245)
 
 
 ### Be familiar with how ML is applied at other companies
-- [X] [Article: How Facebook uses super-efficient AI models to detect hate speech](https://ai.facebook.com/blog/how-facebook-uses-super-efficient-ai-models-to-detect-hate-speech)
-- [X] [Article: Recent Advances in Google Translate](https://ai.googleblog.com/2020/06/recent-advances-in-google-translate.html)
-- [X] [Article: Cannes: How ML saves us $1.7M a year on document previews](https://dropbox.tech/machine-learning/cannes--how-ml-saves-us--1-7m-a-year-on-document-previews)
-- [X] [Article: Machine Learning @ Monzo in 2020](http://nlathia.github.io/2020/10/Monzo-ML.html)
+- [ ] [Article: How Facebook uses super-efficient AI models to detect hate speech](https://ai.facebook.com/blog/how-facebook-uses-super-efficient-ai-models-to-detect-hate-speech)
+- [ ] [Article: Recent Advances in Google Translate](https://ai.googleblog.com/2020/06/recent-advances-in-google-translate.html)
+- [ ] [Article: Cannes: How ML saves us $1.7M a year on document previews](https://dropbox.tech/machine-learning/cannes--how-ml-saves-us--1-7m-a-year-on-document-previews)
+- [ ] [Article: Machine Learning @ Monzo in 2020](http://nlathia.github.io/2020/10/Monzo-ML.html)
 - [ ] [Article: How image search works at Dropbox](https://dropbox.tech/machine-learning/how-image-search-works-at-dropbox)
-- [X] [Real-world AI Case Studies](#)
-	- [X] [Andrej Karpathy on AI at Tesla (Full Stack Deep Learning - August 2018)](https://www.youtube.com/watch?v=ZVJTqAuPvTU&list=PL1T8fO7ArWlf4EkqeguoD70LsnOJ7c9Ib&index=7)
-	- [X] [Jai Ranganathan at Data Science at Uber (Full Stack Deep Learning - August 2018)](https://youtu.be/8PjTWFfjkeY?list=PL1T8fO7ArWlf4EkqeguoD70LsnOJ7c9Ib)
-	- [X] [John Apostolopoulos of Cisco discusses "Machine Learning in Networking"](https://www.youtube.com/watch?v=9XdGZVohnno) `0:48:44`
-	- [X] [Joaquin Candela, Director of Applied Machine Learning, Facebook in conversation with Esteban Arcaute](https://www.youtube.com/watch?v=Fw8adDBBfog) `0:52:27`
-	- [X] [Eric Colson, Chief Algorithms Officer, Stitch Fix](https://www.youtube.com/watch?v=z_OGYzT_MBo) `0:53:57`
-	- [X] [Claudia Perlich, Advisor to Dstillery and Adjunct Professor NYU Stern School of Business](https://www.youtube.com/watch?v=p0cQUErM5xs) `0:51:59`
-	- [X] [Jeff Dean, Google Senior Fellow and SVP Google AI - Deep Learning to Solve Challenging Problems](https://www.youtube.com/watch?v=imlp8DGNkk0) `0:58:45`
-	- [X] [James Parr,  Director of Frontier Development Lab (NASA), FDL Europe & CEO, Trillium Technologies](https://www.youtube.com/watch?v=suamFkw9jws) `0:55:46`
-	- [X] [Daphne Koller, Founder & CEO of Insitro -  In Conversation with Carlos Bustamante](https://www.youtube.com/watch?v=uyLT7EfWmsg) `0:49:29`
-	- [X] [Eric Horvitz, Microsoft Research  - AI in the Open World: Advances, Aspirations, and Rough Edges](https://www.youtube.com/watch?v=4owh40tJ0wA) `0:56:11`
-	- [X] [Tony Jebara, Netflix - Machine Learning for Recommendation and Personalization](https://www.youtube.com/watch?v=5u35GY24A0Q) `0:55:20`
-- [X] [Datacamp: Analyzing Police Activity with pandas](https://www.datacamp.com/courses/analyzing-police-activity-with-pandas)
-- [X] [Datacamp: HR Analytics in Python: Predicting Employee Churn](https://www.datacamp.com/courses/hr-analytics-in-python-predicting-employee-churn)
-- [X] [Datacamp: Predicting Customer Churn in Python](https://www.datacamp.com/courses/predicting-customer-churn-in-python)
-- [X] [Youtube: How does YouTube recommend videos? - AI EXPLAINED!](https://www.youtube.com/watch?v=wDxTWp3KMMs) `0:33:53`
-- [X] [Youtube: How does Google Translate's AI work?](https://www.youtube.com/watch?v=sIoHFPGOY0I) `0:15:02`
+- [ ] [Real-world AI Case Studies](#)
+	- [ ] [Andrej Karpathy on AI at Tesla (Full Stack Deep Learning - August 2018)](https://www.youtube.com/watch?v=ZVJTqAuPvTU&list=PL1T8fO7ArWlf4EkqeguoD70LsnOJ7c9Ib&index=7)
+	- [ ] [Jai Ranganathan at Data Science at Uber (Full Stack Deep Learning - August 2018)](https://youtu.be/8PjTWFfjkeY?list=PL1T8fO7ArWlf4EkqeguoD70LsnOJ7c9Ib)
+	- [ ] [John Apostolopoulos of Cisco discusses "Machine Learning in Networking"](https://www.youtube.com/watch?v=9XdGZVohnno) `0:48:44`
+	- [ ] [Joaquin Candela, Director of Applied Machine Learning, Facebook in conversation with Esteban Arcaute](https://www.youtube.com/watch?v=Fw8adDBBfog) `0:52:27`
+	- [ ] [Eric Colson, Chief Algorithms Officer, Stitch Fix](https://www.youtube.com/watch?v=z_OGYzT_MBo) `0:53:57`
+	- [ ] [Claudia Perlich, Advisor to Dstillery and Adjunct Professor NYU Stern School of Business](https://www.youtube.com/watch?v=p0cQUErM5xs) `0:51:59`
+	- [ ] [Jeff Dean, Google Senior Fellow and SVP Google AI - Deep Learning to Solve Challenging Problems](https://www.youtube.com/watch?v=imlp8DGNkk0) `0:58:45`
+	- [ ] [James Parr,  Director of Frontier Development Lab (NASA), FDL Europe & CEO, Trillium Technologies](https://www.youtube.com/watch?v=suamFkw9jws) `0:55:46`
+	- [ ] [Daphne Koller, Founder & CEO of Insitro -  In Conversation with Carlos Bustamante](https://www.youtube.com/watch?v=uyLT7EfWmsg) `0:49:29`
+	- [ ] [Eric Horvitz, Microsoft Research  - AI in the Open World: Advances, Aspirations, and Rough Edges](https://www.youtube.com/watch?v=4owh40tJ0wA) `0:56:11`
+	- [ ] [Tony Jebara, Netflix - Machine Learning for Recommendation and Personalization](https://www.youtube.com/watch?v=5u35GY24A0Q) `0:55:20`
+- [ ] [Datacamp: Analyzing Police Activity with pandas](https://www.datacamp.com/courses/analyzing-police-activity-with-pandas)
+- [ ] [Datacamp: HR Analytics in Python: Predicting Employee Churn](https://www.datacamp.com/courses/hr-analytics-in-python-predicting-employee-churn)
+- [ ] [Datacamp: Predicting Customer Churn in Python](https://www.datacamp.com/courses/predicting-customer-churn-in-python)
+- [] [Youtube: How does YouTube recommend videos? - AI EXPLAINED!](https://www.youtube.com/watch?v=wDxTWp3KMMs) `0:33:53`
+- [] [Youtube: How does Google Translate's AI work?](https://www.youtube.com/watch?v=sIoHFPGOY0I) `0:15:02`
 - [X] [Youtube: Data Science in Finance](https://www.youtube.com/watch?v=mbOkL39Uabs) `0:17:52`
 - [X] [Youtube: The Age of AI](https://www.youtube.com/playlist?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc)
 	- [X] [How Far is Too Far? | The Age of A.I.](https://www.youtube.com/watch?v=UwsrzCVZAb8) `0:34:39`
