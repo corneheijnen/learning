@@ -367,6 +367,14 @@
 - [X] [Paper: AutoCompete: A Framework for Machine Learning Competitions](https://arxiv.org/abs/1507.02188)
 - [X] [Paper: Cost-effective Deployment of BERT Models in Serverless Environment](https://mareksuppa.com/pdfs/naacl_2021_bert_serverless.pdf)
 - [X] [Paper: Evaluating Large Language Models Trained on Code](https://arxiv.org/abs/2107.03374)
+- [X] [Paper: What Does BERT Learn about the Structure of Language?](https://aclanthology.org/P19-1356/)
+- [X] [Paper: What do RNN Language Models Learn about Filler–Gap Dependencies?](https://aclanthology.org/W18-5423/)
+- [X] [Paper: Symbol Grounding and its Implications for Artificial Intelligence](https://www.researchgate.net/publication/221573971_Symbol_Grounding_and_its_Implications_for_Artificial_Intelligence)
+- [X] [Paper: Is this a wampimuk? Cross-modal mapping between distributional semantics and the visual world](https://aclanthology.org/P14-1132/)
+- [X] [Paper: MDETR -- Modulated Detection for End-to-End Multi-Modal Understanding](https://arxiv.org/abs/2104.12763)
+- [X] [Paper: Multimodal Pretraining Unmasked: A Meta-Analysis and a Unified Framework of Vision-and-Language BERTs](https://arxiv.org/abs/2011.15124)
+- [X] [Paper: Show and Tell: A Neural Image Caption Generator](https://arxiv.org/abs/1411.4555)
+- [X] [Paper: The Curious Case of Neural Text Degeneration](https://arxiv.org/abs/1904.09751)
 - [X] [Youtube: mixup: Beyond Empirical Risk Minimization (Paper Explained)](https://www.youtube.com/watch?v=a-VQfQqIMrE)
 
 ### Be able to model problems mathematically
@@ -1240,6 +1248,13 @@
 	- [X] [CMU Multilingual NLP 2020 (21): Information Extraction](https://www.youtube.com/watch?v=uNIy-v2DUgc) `0:41:00`
 	- [X] [CMU Multilingual NLP 2020 (22): Multilingual NLP for Indigenous Languages](https://www.youtube.com/watch?v=wilwuzgLWdk) `1:21:58`
 	- [X] [CMU Multilingual NLP 2020 (23): Universal Translation at Scale](https://www.youtube.com/watch?v=mcl--ktVpjg) `1:27:33`
+- [ ] [CMU Advanced NLP 2021](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AYSXn_GKVgwXVluCT9chJ6)
+	- [ ] [CMU Advanced NLP 2021 (1): Introduction to NLP](https://www.youtube.com/watch?v=pGC-QiNbuwA) `1:08:39`
+	- [ ] [CMU Advanced NLP 2021 (2): Text Classification](https://www.youtube.com/watch?v=7tGbA5QqJUg) `1:16:56`
+	- [ ] [CMU Advanced NLP 2021 (3): Language Modeling and Neural Networks](https://www.youtube.com/watch?v=cH8DiwmJu-U) `1:16:37`
+	- [ ] [CMU Advanced NLP 2021 (4): Text Classification](https://www.youtube.com/watch?v=SmTl55AuUeQ) `1:14:19`
+	- [ ] [CMU Advanced NLP 2021 (5): Recurrent Neural Networks](https://www.youtube.com/watch?v=1aQwed1TTrY) `1:13:43`
+	- [ ] [CMU Advanced NLP 2021 (6): Conditional Generation](https://www.youtube.com/watch?v=vLgLUCXuERU) `1:17:56`
 - [ ] [CS685: Advanced Natural Language Processing](https://www.youtube.com/playlist?list=PLWnsVgP6CzadmQX6qevbar3_vDBioWHJL)
 	- [ ] [UMass CS685 (Advanced NLP): Attention mechanisms](https://www.youtube.com/watch?v=3qdQAtfq1jU) `0:48:53`
 	- [ ] [UMass CS685 (Advanced NLP): Question answering](https://www.youtube.com/watch?v=nfHBN2D47rc) `0:59:50`
@@ -1708,6 +1723,7 @@
 	- [ ] [Lecture 9.2: Multimodal RL](https://www.youtube.com/watch?v=UsAgvMC5fRs)
 	- [ ] [Lecture 10.1: Fusion and co-learning](https://www.youtube.com/watch?v=2xr4P0WGKSA)
 	- [ ] [Lecture 10.2: New research directions](https://www.youtube.com/watch?v=g3ZpSiwusrM)
+- [X] [Youtube: W&B Paper Reading Group: MDETR with author Aishwarya Kamath](https://www.youtube.com/watch?v=I68nn_0odto)
 
 ### Be familiar with Recommendation Systems
 - [ ] [Google: Recommendation Systems](https://developers.google.com/machine-learning/recommendation)
@@ -2314,6 +2330,7 @@
 - [X] [Book: The New One Minute Manager](https://www.amazon.com/New-One-Minute-Manager-ebook/dp/B00MMG19OG)
 - [X] [Calmcode: Remote Work](https://calmcode.io/remote/introduction.html)
 - [X] [Youtube: Building a psychologically safe workplace | Amy Edmondson | TEDxHGSE](https://youtu.be/LhoLuui9gX8)
+- [X] [Youtube: A short introduction to LaTeX and Overleaf](https://www.youtube.com/watch?v=dkojsBJ-S-g)
 
 ### Be familiar with the hiring pipeline
 - [X] [Article: What You Need to Know Before Considering a PhD](https://www.fast.ai/2018/08/27/grad-school/)
